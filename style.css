@@ -1,0 +1,24 @@
+.filmesh {
+  color: darkred;
+}
+
+.filmesa {
+  color: darkblue;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+html {
+  font: Arial;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  list-style-type: none;
+}
